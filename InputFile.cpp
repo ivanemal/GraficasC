@@ -1,6 +1,8 @@
-//
-// Created by Ivan Acosta on 06/09/17.
-//
+/*
+   Materia: Gráficas Computacionales
+   Fecha: 6 de septiembre del 2017
+   Autor: A01019861 Alumno Iván E. Acosta
+ */
 #include <string>
 #include <iostream>
 #include <fstream>
